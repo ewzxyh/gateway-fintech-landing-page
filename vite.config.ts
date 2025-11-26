@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
     port: 3000,
-    allowedHosts: ["hkpay.shop"], // <-- LIBERANDO O HOST
+    allowedHosts: ["exemplo.shop"], // <-- LIBERANDO O HOST
   },
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
   resolve: {
