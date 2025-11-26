@@ -21,8 +21,8 @@ const PoliticaAntifraude = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">1. Compromisso</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  A CasePay mantém tolerância zero à fraude e implementa controles 
-                  rigorosos para proteger nossos clientes e parceiros contra 
+                  A EXEMPLO mantém tolerância zero à fraude e implementa controles
+                  rigorosos para proteger nossos clientes e parceiros contra
                   atividades fraudulentas.
                 </p>
               </section>
@@ -62,7 +62,7 @@ const PoliticaAntifraude = () => {
                     <li>Verificação biométrica</li>
                     <li>Validação de documentos</li>
                   </ul>
-                  
+
                   <h3 className="text-lg font-semibold mt-6">Controles de Transação:</h3>
                   <ul className="list-disc list-inside text-muted-foreground space-y-2 ml-4">
                     <li>Limites dinâmicos baseados no perfil</li>
@@ -75,9 +75,9 @@ const PoliticaAntifraude = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">5. Resposta a Incidentes</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Quando uma fraude é detectada, nossa equipe especializada age 
-                  imediatamente para bloquear a atividade suspeita, proteger 
-                  os fundos e investigar o incidente em colaboração com 
+                  Quando uma fraude é detectada, nossa equipe especializada age
+                  imediatamente para bloquear a atividade suspeita, proteger
+                  os fundos e investigar o incidente em colaboração com
                   autoridades competentes.
                 </p>
               </section>
@@ -85,8 +85,8 @@ const PoliticaAntifraude = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">6. Educação e Prevenção</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Oferecemos recursos educacionais para nossos clientes sobre 
-                  como identificar e evitar tentativas de fraude, incluindo 
+                  Oferecemos recursos educacionais para nossos clientes sobre
+                  como identificar e evitar tentativas de fraude, incluindo
                   dicas de segurança e alertas sobre novas ameaças.
                 </p>
               </section>

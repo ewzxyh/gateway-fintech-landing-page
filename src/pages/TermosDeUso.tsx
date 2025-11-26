@@ -21,8 +21,8 @@ const TermosDeUso = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">1. Aceitação dos Termos</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Ao utilizar os serviços da CasePay, você concorda em cumprir e estar legalmente 
-                  vinculado a estes Termos de Uso. Se você não concordar com qualquer parte 
+                  Ao utilizar os serviços da EXEMPLO, você concorda em cumprir e estar legalmente
+                  vinculado a estes Termos de Uso. Se você não concordar com qualquer parte
                   destes termos, não deve usar nossos serviços.
                 </p>
               </section>
@@ -30,7 +30,7 @@ const TermosDeUso = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">2. Descrição dos Serviços</h2>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  A CasePay oferece soluções de pagamento digital, incluindo:
+                  A EXEMPLO oferece soluções de pagamento digital, incluindo:
                 </p>
                 <ul className="list-disc list-inside text-muted-foreground space-y-2 ml-4">
                   <li>Processamento de transações Pix</li>
@@ -44,8 +44,8 @@ const TermosDeUso = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">3. Responsabilidades do Usuário</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  O usuário é responsável por manter a segurança de suas credenciais de acesso, 
-                  fornecer informações precisas e cumprir todas as leis aplicáveis ao usar 
+                  O usuário é responsável por manter a segurança de suas credenciais de acesso,
+                  fornecer informações precisas e cumprir todas as leis aplicáveis ao usar
                   nossos serviços.
                 </p>
               </section>
@@ -53,7 +53,7 @@ const TermosDeUso = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">4. Taxas e Pagamentos</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  As taxas aplicáveis aos serviços estão disponíveis em nossa página de preços 
+                  As taxas aplicáveis aos serviços estão disponíveis em nossa página de preços
                   e podem ser alteradas mediante aviso prévio de 30 dias.
                 </p>
               </section>
@@ -61,7 +61,7 @@ const TermosDeUso = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">5. Limitação de Responsabilidade</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  A CasePay não será responsável por danos indiretos, incidentais ou 
+                  A EXEMPLO não será responsável por danos indiretos, incidentais ou
                   consequenciais decorrentes do uso de nossos serviços.
                 </p>
               </section>

@@ -1,9 +1,9 @@
 module.exports = {
   apps: [{
-    name: 'casepay-app',
+    name: 'gateway-app',
     script: 'http-server',
     args: 'dist -p 3000 -a 0.0.0.0 --gzip',
-    cwd: '/home/casepay/htdocs/casepay.app',
+    cwd: '/home/gateway/htdocs/gateway.app',
     env: {
       NODE_ENV: 'production'
     },

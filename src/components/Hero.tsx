@@ -12,36 +12,36 @@ const Hero = () => {
               <div className="inline-block px-4 py-2 rounded-full glass-effect border border-primary/20 animate-fade-in-up">
                 <span className="text-primary font-medium">// PLATAFORMA DE PAGAMENTOS</span>
               </div>
-              
+
               <h1 className="text-5xl lg:text-6xl font-bold leading-tight animate-fade-in-up [animation-delay:200ms]">
                 Pagamentos{" "}
                 <span className="gradient-text">otimizados</span> para
                 impulsionar seu{" "}
                 <span className="gradient-text">negócio digital</span>
               </h1>
-              
+
               <p className="text-xl text-muted-foreground leading-relaxed animate-fade-in-up [animation-delay:400ms]">
-                Junte-se à transformação das plataformas de pagamento com a CasePay. 
-                Tenha controle total, taxas competitivas e integração simples 
+                Junte-se à transformação das plataformas de pagamento com a EXEMPLO.
+                Tenha controle total, taxas competitivas e integração simples
                 para acelerar suas vendas no Pix e outros métodos de pagamento.
               </p>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up [animation-delay:600ms]">
-              <Button 
-                size="lg" 
+              <Button
+                size="lg"
                 className="gradient-primary hover:opacity-90 transition-all duration-300 hover:scale-105 group animate-pulse-glow"
                 asChild
               >
-                <a href="https://app.casepay.app/register" rel="noopener noreferrer">
+                <a href="https://app.gateway.app/register" rel="noopener noreferrer">
                   Criar Conta Gratuita
                   <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
                 </a>
               </Button>
-              
-              <Button 
-                size="lg" 
-                variant="outline" 
+
+              <Button
+                size="lg"
+                variant="outline"
                 className="border-primary/20 bg-transparent hover:bg-primary/10 hover:scale-105 transition-all duration-300"
               >
                 <Play className="mr-2 h-5 w-5" />

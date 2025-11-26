@@ -35,7 +35,7 @@ const Header = () => {
               className="text-foreground hover:text-primary"
               asChild
             >
-              <a href="https://app.casepay.app/login"  rel="noopener noreferrer">
+              <a href="https://app.gateway.app/login"  rel="noopener noreferrer">
                 Login
               </a>
             </Button>
@@ -44,7 +44,7 @@ const Header = () => {
               className="gradient-primary hover:opacity-90 transition-opacity"
               asChild
             >
-              <a href="https://app.casepay.app/register"  rel="noopener noreferrer">
+              <a href="https://app.gateway.app/register"  rel="noopener noreferrer">
                 Criar Conta
               </a>
             </Button>

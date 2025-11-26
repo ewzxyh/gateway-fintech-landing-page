@@ -33,33 +33,33 @@ const Footer = () => {
                 <span className="text-foreground">Pay</span>
               </div>
             </a>
-            
+
             <p className="text-muted-foreground max-w-md leading-relaxed">
-              Transformando a forma como empresas brasileiras processam pagamentos digitais 
+              Transformando a forma como empresas brasileiras processam pagamentos digitais
               com tecnologia de ponta e suporte excepcional.
             </p>
 
             <div className="flex space-x-4">
-              <a 
-                href="#" 
+              <a
+                href="#"
                 className="w-10 h-10 rounded-full glass-effect flex items-center justify-center hover:bg-primary/10 transition-colors"
               >
                 <Twitter className="h-5 w-5 text-muted-foreground hover:text-primary" />
               </a>
-              <a 
-                href="#" 
+              <a
+                href="#"
                 className="w-10 h-10 rounded-full glass-effect flex items-center justify-center hover:bg-primary/10 transition-colors"
               >
                 <Linkedin className="h-5 w-5 text-muted-foreground hover:text-primary" />
               </a>
-              <a 
-                href="#" 
+              <a
+                href="#"
                 className="w-10 h-10 rounded-full glass-effect flex items-center justify-center hover:bg-primary/10 transition-colors"
               >
                 <Github className="h-5 w-5 text-muted-foreground hover:text-primary" />
               </a>
-              <a 
-                href="#" 
+              <a
+                href="#"
                 className="w-10 h-10 rounded-full glass-effect flex items-center justify-center hover:bg-primary/10 transition-colors"
               >
                 <Mail className="h-5 w-5 text-muted-foreground hover:text-primary" />
@@ -72,8 +72,8 @@ const Footer = () => {
             <ul className="space-y-3">
               {links.produto.map((link) => (
                 <li key={link.name}>
-                  <a 
-                    href={link.href} 
+                  <a
+                    href={link.href}
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
                     {link.name}
@@ -88,8 +88,8 @@ const Footer = () => {
             <ul className="space-y-3">
               {links.empresa.map((link) => (
                 <li key={link.name}>
-                  <a 
-                    href={link.href} 
+                  <a
+                    href={link.href}
                     className="text-muted-foreground hover:text-primary transition-colors"
                     {...(link.href.startsWith('http') && { rel: "noopener noreferrer" })}
                   >
@@ -105,8 +105,8 @@ const Footer = () => {
             <ul className="space-y-3">
               {links.suporte.map((link) => (
                 <li key={link.name}>
-                  <a 
-                    href={link.href} 
+                  <a
+                    href={link.href}
                     className="text-muted-foreground hover:text-primary transition-colors"
                     {...(link.href.startsWith('http') && { rel: "noopener noreferrer" })}
                   >
@@ -120,7 +120,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm">
-            © 2024 CasePay. Todos os direitos reservados.
+            © 2024 EXEMPLO. Todos os direitos reservados.
           </p>
           <div className="flex space-x-6 text-sm text-muted-foreground mt-4 md:mt-0">
             <a href="/termos-de-uso" className="hover:text-primary transition-colors">

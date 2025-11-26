@@ -21,8 +21,8 @@ const PoliticaSeguranca = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">1. Objetivo</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Estabelecer diretrizes para proteção dos ativos digitais, dados e 
-                  sistemas da CasePay contra ameaças cibernéticas, garantindo a 
+                  Estabelecer diretrizes para proteção dos ativos digitais, dados e
+                  sistemas da EXEMPLO contra ameaças cibernéticas, garantindo a
                   confidencialidade, integridade e disponibilidade das informações.
                 </p>
               </section>
@@ -38,7 +38,7 @@ const PoliticaSeguranca = () => {
                     <li>Autenticação multifator obrigatória</li>
                     <li>Monitoramento 24/7 de ameaças</li>
                   </ul>
-                  
+
                   <h3 className="text-lg font-semibold mt-6">Desenvolvimento:</h3>
                   <ul className="list-disc list-inside text-muted-foreground space-y-2 ml-4">
                     <li>Secure Development Lifecycle (SDL)</li>
@@ -66,8 +66,8 @@ const PoliticaSeguranca = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">4. Conformidade</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Nossa segurança está alinhada com padrões internacionais como 
-                  ISO 27001, PCI DSS e diretrizes do Banco Central do Brasil 
+                  Nossa segurança está alinhada com padrões internacionais como
+                  ISO 27001, PCI DSS e diretrizes do Banco Central do Brasil
                   para instituições de pagamento.
                 </p>
               </section>
@@ -75,8 +75,8 @@ const PoliticaSeguranca = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">5. Treinamento</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Todos os colaboradores recebem treinamento regular sobre 
-                  segurança da informação, incluindo identificação de phishing, 
+                  Todos os colaboradores recebem treinamento regular sobre
+                  segurança da informação, incluindo identificação de phishing,
                   proteção de credenciais e boas práticas de segurança.
                 </p>
               </section>

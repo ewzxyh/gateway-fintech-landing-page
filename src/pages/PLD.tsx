@@ -21,8 +21,8 @@ const PLD = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">1. Compromisso com a PLD</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  A CasePay está comprometida com o combate à lavagem de dinheiro e financiamento 
-                  ao terrorismo, cumprindo integralmente as leis brasileiras e melhores 
+                  A EXEMPLO está comprometida com o combate à lavagem de dinheiro e financiamento
+                  ao terrorismo, cumprindo integralmente as leis brasileiras e melhores
                   práticas internacionais.
                 </p>
               </section>
@@ -43,8 +43,8 @@ const PLD = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">3. Procedimentos KYC</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Aplicamos rigorosos procedimentos de Conheça Seu Cliente (KYC) para 
-                  verificar a identidade e legitimidade de nossos usuários antes de 
+                  Aplicamos rigorosos procedimentos de Conheça Seu Cliente (KYC) para
+                  verificar a identidade e legitimidade de nossos usuários antes de
                   autorizar transações.
                 </p>
               </section>
@@ -52,7 +52,7 @@ const PLD = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">4. Comunicação às Autoridades</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Reportamos ao COAF (Conselho de Controle de Atividades Financeiras) 
+                  Reportamos ao COAF (Conselho de Controle de Atividades Financeiras)
                   todas as operações suspeitas identificadas em nosso monitoramento.
                 </p>
               </section>
@@ -60,7 +60,7 @@ const PLD = () => {
               <section>
                 <h2 className="text-2xl font-bold mb-4">5. Treinamento e Capacitação</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Nossa equipe recebe treinamento contínuo sobre PLD/FT para manter 
+                  Nossa equipe recebe treinamento contínuo sobre PLD/FT para manter
                   a eficácia de nossos controles e procedimentos.
                 </p>
               </section>
